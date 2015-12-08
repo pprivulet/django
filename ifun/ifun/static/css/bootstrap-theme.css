@@ -66,7 +66,7 @@
 .btn-info,    .btn-warning, .btn-danger {
 	text-shadow: 0 2px 1px rgba(0, 0, 0, .2);
 }
-
+.search {margin:2px}
 .btn { padding: 10px 40px; font-weight: bold; border:0 none; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; }
 .btn-lg { padding: 15px 65px; font-size: 14px; font-weight:bold; }
 .btn-default { text-shadow: none; background:transparent; color:rgba(50,50,50,.5); -webkit-box-shadow:inset 0px 0px 0px 3px rgba(50,50,50,.5); -moz-box-shadow:inset 0px 0px 0px 3px rgba(50,50,50,.5); box-shadow:inset 0px 0px 0px 3px rgba(50,50,50,.5); }
@@ -85,7 +85,7 @@
 /*******************************/
 /*           Jumbotron         */
 /*******************************/
-.jumbotron { color: inherit; background-color: #F7F5F4; padding-top:30px; padding-bottom:30px; margin-bottom:0; }
+.jumbotron { color: inherit; background-color: #F7F5F4; padding-top:0px; padding-bottom:0px; margin-bottom:0; }
 .container .jumbotron { -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; padding-left:40px; padding-right:40px; }
 	.jumbotron p { font-size:inherit; }
 	.jumbotron h2, .jumbotron h3, .jumbotron h4, 
