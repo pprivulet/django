@@ -11,7 +11,6 @@
 		#head .btn-default:active, 
 		#head .btn-default.active { color:#fff; -webkit-box-shadow:inset 0px 0px 0px 3px #fff; -moz-box-shadow:inset 0px 0px 0px 3px #fff; box-shadow:inset 0px 0px 0px 3px #fff; background: transparent; }
 
-#map { background: url(../images/location_1500.png) no-repeat;  min-height:700px; text-align: center; padding-top:240px; padding-left:20px;color:white; font-family:"Open sans", Helvetica, Arial; font-weight:300; }
 
 @media (max-width: 767px) {
 	#head { min-height:420px; padding-top:160px; }
